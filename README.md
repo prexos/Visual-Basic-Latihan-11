@@ -1,3 +1,3 @@
 # Visual-Basic-Latihan-11
 
-Database sama dengan latihan 10
+Database memakai yang dilatihan 10
